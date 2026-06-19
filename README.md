@@ -137,12 +137,8 @@ Command for PC
 
 ## Feedback
 
-For any queries, reach out to the Developers :
-* [Siddharth Pandey](mailto:siddharth25pandey@gmail.com) (**Front End & Back End**)
-* [Priyam Bajpai](mailto:priyambajpai@yahoo.in) (**Front End & Back End**)
-* [Shreyash Mishra](mailto:shreyashm1601@gmail.com) (**Front End & Back End**)
-* [Naveen Kumar](mailto:naveenkumar.k19@gmail.com) (**Front End & Back End**)
-* [Yaduraj Deshmukh](mailto:yadurajdeshmukh2.303@gmail.com) (**Front End & Back End**)
+For any queries:
+* [Balaganesh](mailto:gbala874@gmail.com) (**Front End & Back End**)
 
 ##
 ![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)![ForTheBadge makes-people-smile](http://ForTheBadge.com/images/badges/makes-people-smile.svg)
